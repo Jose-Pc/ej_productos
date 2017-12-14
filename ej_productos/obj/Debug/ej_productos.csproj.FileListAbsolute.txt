@@ -1,0 +1,11 @@
+C:\Users\alumno\source\repos\ej_productos\ej_productos\bin\Debug\ej_productos.exe.config
+C:\Users\alumno\source\repos\ej_productos\ej_productos\bin\Debug\ej_productos.exe
+C:\Users\alumno\source\repos\ej_productos\ej_productos\bin\Debug\ej_productos.pdb
+C:\Users\alumno\source\repos\ej_productos\ej_productos\obj\Debug\ej_productos.csprojResolveAssemblyReference.cache
+C:\Users\alumno\source\repos\ej_productos\ej_productos\obj\Debug\ej_productos.Form1.resources
+C:\Users\alumno\source\repos\ej_productos\ej_productos\obj\Debug\ej_productos.Frm_Prod_modal.resources
+C:\Users\alumno\source\repos\ej_productos\ej_productos\obj\Debug\ej_productos.Properties.Resources.resources
+C:\Users\alumno\source\repos\ej_productos\ej_productos\obj\Debug\ej_productos.csproj.GenerateResource.Cache
+C:\Users\alumno\source\repos\ej_productos\ej_productos\obj\Debug\ej_productos.csproj.CoreCompileInputs.cache
+C:\Users\alumno\source\repos\ej_productos\ej_productos\obj\Debug\ej_productos.exe
+C:\Users\alumno\source\repos\ej_productos\ej_productos\obj\Debug\ej_productos.pdb
